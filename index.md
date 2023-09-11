@@ -1,6 +1,8 @@
-# Welcome
+---
+title: Yuval Shavit
+---
 
-Some links:
+## Some links
 
 - [whatdid](https://whatdid.yuvalshavit.com), a time-tracking app I wrote for the Mac
 - [blog.yuvalshavit.com](https://blog.yuvalshavit.com), a journal of my experiments in writing a programming language.
